@@ -2,7 +2,7 @@ Viết bởi Notbeans
 
 Source code chứa tất cả các file bao gồm cả file .far và các hình ảnh liên quan.
 
-Để soure NguyenThiAnhThu_51900564_CuoiKy -> src( code chính) 
+Để source NguyenThiAnhThu_51900564_CuoiKy -> src( code chính) 
 - src bao gồm : Code server, client, audio, images, mainClass
 - folder dist có chứa file .jar
 
